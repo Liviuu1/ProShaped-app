@@ -177,7 +177,7 @@ fun SettingsScreen() {
         modifier = Modifier.fillMaxSize(),
         contentAlignment = Alignment.Center
     ) {
-        Text(text = "Settings screen")
+        Text(text = "Settings screen?!")
     }
 }
 
